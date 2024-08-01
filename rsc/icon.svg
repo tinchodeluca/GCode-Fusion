@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="68.87468mm"
+   height="68.87468mm"
+   viewBox="0 0 68.87468 68.874681"
+   version="1.1"
+   id="svg16994"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview16996"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.3019641"
+     inkscape:cx="91.226445"
+     inkscape:cy="132.27835"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs16991" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-87.193184,-191.56399)">
+    <g
+       id="g7340">
+      <circle
+         style="fill:#4d4d4d;stroke:none;stroke-width:2.01989;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:4.03978, 8.07956;stroke-dashoffset:0;stroke-opacity:1"
+         id="path16778"
+         cx="121.63052"
+         cy="226.00133"
+         r="34.43734"
+         inkscape:export-filename="C:\Users\mdelu\Desktop\GcodeFusion.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <g
+         aria-label="GCF"
+         id="text2179-4-5-4-6-1-6-4-0-8-3-2-5-1-6-5-8-0-6"
+         style="font-size:38.9916px;-inkscape-font-specification:sans-serif;fill:#cccccc;stroke:#cccccc;stroke-width:1.113;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.3252834,0,0,1.3252834,-192.14662,-14180.98)">
+        <path
+           d="m 243.00495,10872.509 c 0,0.05 -0.013,0.09 -0.039,0.117 0,0.13 -0.013,0.286 -0.039,0.468 -0.026,0.182 -0.065,0.403 -0.11698,0.663 -0.25994,1.456 -0.76683,2.821 -1.52067,4.094 -0.72785,1.248 -1.63765,2.34 -2.72941,3.275 -1.09177,0.91 -2.3395,1.638 -3.7432,2.184 -1.3777,0.52 -2.83339,0.78 -4.36706,0.78 -1.71563,0 -3.34028,-0.325 -4.87395,-0.975 -1.50767,-0.676 -2.83339,-1.573 -3.97714,-2.69 -1.11776,-1.144 -2.01457,-2.483 -2.69042,-4.017 -0.64986,-1.533 -0.97479,-3.158 -0.97479,-4.873 0,-1.716 0.32493,-3.341 0.97479,-4.874 0.67585,-1.534 1.57266,-2.86 2.69042,-3.978 1.14375,-1.143 2.46947,-2.04 3.97714,-2.69 8.92925,-2.784 13.01574,3.882 4.87395,3.856 -1.06575,0 -2.06655,0.208 -3.00235,0.624 -0.9098,0.39 -1.71563,0.936 -2.41748,1.638 -0.70185,0.675 -1.26073,1.481 -1.67664,2.417 -0.38991,0.936 -0.58487,1.937 -0.58487,3.003 0,1.065 0.19496,2.066 0.58487,3.002 0.41591,0.936 0.97479,1.755 1.67664,2.456 0.70185,0.676 1.50768,1.222 2.41748,1.638 0.9358,0.39 1.93658,0.585 3.00235,0.585 0.83183,0 1.62466,-0.117 2.37849,-0.351 0.75384,-0.26 1.44269,-0.611 2.06656,-1.053 0.62387,-0.442 1.16975,-0.962 1.63764,-1.559 0.4679,-0.624 0.84482,-1.3 1.13076,-2.028 h -3.35328 c -0.67585,0 -1.24773,-0.234 -1.71563,-0.702 -0.4679,-0.494 -0.70185,-1.079 -0.70185,-1.755 0,-0.675 0.23395,-1.247 0.70185,-1.715 0.4679,-0.468 1.03978,-0.702 1.71563,-0.702 h 6.0437 c 0.75384,0.05 1.37771,0.365 1.8716,0.936 0.51989,0.546 0.77983,1.196 0.77983,1.949 v 0.234 z"
+           style="-inkscape-font-specification:'Organo (colored version at: logomagazin.com/organo-font)';fill:#cccccc;stroke:#cccccc;stroke-width:1.113;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path13246"
+           sodipodi:nodetypes="scsccccscccscscccccscccscsccscsssccscs" />
+      </g>
+      <path
+         d="m 141.42745,207.65495 q 1.34355,0 2.2737,0.98203 0.98182,0.93035 0.98182,2.27419 0,1.34384 -0.98182,2.27286 -0.93015,0.93035 -2.2737,0.93035 h -0.31005 q -2.11866,0 -3.97896,0.82697 -1.8603,0.7753 -3.25552,2.17082 -1.34355,1.34251 -2.17035,3.20321 -0.77512,1.8607 -0.77512,3.97982 v 3.46165 h 6.92443 q 1.34355,0 2.2737,0.93034 0.98182,0.93035 0.98182,2.27286 0,1.34384 -0.98182,2.32588 -0.93015,0.93035 -2.2737,0.93035 h -6.92443 v 11.57502 q 0,1.34384 -0.93015,2.27419 -0.93015,0.98203 -2.2737,0.98203 -1.34354,0 -2.32537,-0.98203 -0.93015,-0.93035 -0.93015,-2.27419 v -21.4961 q 0,-3.41127 1.29188,-6.45943 1.34354,-3.04947 3.56557,-5.27197 2.27369,-2.27286 5.27083,-3.56502 3.04883,-1.34383 6.51104,-1.34383 z"
+         style="font-size:38.9916px;-inkscape-font-specification:'Organo (colored version at: logomagazin.com/organo-font)';fill:#cccccc;stroke:none;stroke-width:1.74022"
+         id="path13240-6" />
+      <g
+         aria-label="C"
+         id="text2179-4-5-4-6-1-6-4-0-8-3-2-5-1-6-5-8-0-6-9"
+         style="font-size:38.9916px;-inkscape-font-specification:sans-serif;fill:#4d4d4d;fill-opacity:1;stroke:#cccccc;stroke-width:0.941583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.2683376,0,0,1.3090429,-163.29026,-14004.169)">
+        <path
+           d="m 217.58228,10878.963 c 0.67585,0 1.24773,0.247 1.71563,0.741 0.4679,0.468 0.70185,1.04 0.70185,1.715 0,0.676 -0.23395,1.248 -0.70185,1.716 -0.4679,0.468 -1.03978,0.702 -1.71563,0.702 h -0.17888 c -1.71563,0 -3.34028,-0.325 -4.87395,-0.975 -1.50767,-0.676 -2.83339,-1.573 -3.97714,-2.69 -1.11776,-1.144 -2.01457,-2.47 -2.69043,-3.978 -0.64986,-1.533 -0.97479,-3.171 -0.97479,-4.912 0,-1.716 0.32493,-3.328 0.97479,-4.835 0.67586,-1.534 1.57267,-2.86 2.69043,-3.978 1.14375,-1.143 2.46947,-2.04 3.97714,-2.69 1.53367,-0.676 3.15832,-1.014 4.87395,-1.014 h 2.88538 c 0.67585,0 1.24773,0.234 1.71563,0.702 0.4679,0.468 0.70185,1.04 0.70185,1.716 0,0.675 -0.23395,1.26 -0.70185,1.754 -0.4679,0.468 -1.03978,0.702 -1.71563,0.702 h -2.88538 c -1.06577,0 -2.06656,0.208 -3.00235,0.624 -0.90981,0.39 -1.71563,0.936 -2.41748,1.638 -0.70185,0.675 -1.26073,1.481 -1.67664,2.417 -0.38992,0.936 -0.58488,1.924 -0.58488,2.964 0,1.065 0.19496,2.066 0.58488,3.002 0.41591,0.936 0.97479,1.755 1.67664,2.456 0.70185,0.676 1.50767,1.222 2.41748,1.638 0.93579,0.39 1.93658,0.585 3.00235,0.585 z"
+           style="-inkscape-font-specification:'Organo (colored version at: logomagazin.com/organo-font)';fill:#4d4d4d;fill-opacity:1;stroke:#cccccc;stroke-width:0.941583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path14178"
+           sodipodi:nodetypes="scsssscccscscsssscsscccscccss" />
+      </g>
+    </g>
+  </g>
+</svg>
